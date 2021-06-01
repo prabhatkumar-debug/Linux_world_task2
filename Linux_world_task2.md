@@ -15,6 +15,11 @@ Task Description 📄
 
 ![image](https://user-images.githubusercontent.com/60494696/120360714-afc48e80-c326-11eb-9072-fd7d5dad9467.png)
 
+2.Then we go in docker_GUI and open vim editor.
+
+![image](https://user-images.githubusercontent.com/60494696/120361095-1b0e6080-c327-11eb-9f0c-90879043dab0.png)
+
+
 
 
 
