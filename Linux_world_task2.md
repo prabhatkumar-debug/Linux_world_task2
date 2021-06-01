@@ -31,6 +31,10 @@ Task Description 📄
 
 ![image](https://user-images.githubusercontent.com/60494696/120367877-03d37100-c32f-11eb-8fdb-9fda4f7e5617.png)
 
+6.Now we can see firefox is running on docker finally.
+
+![image](https://user-images.githubusercontent.com/60494696/120368097-49903980-c32f-11eb-8f31-7d9180772d04.png)
+
 
 
 
