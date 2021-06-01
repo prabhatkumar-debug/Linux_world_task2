@@ -27,6 +27,11 @@ Task Description 📄
 
 ![image](https://user-images.githubusercontent.com/60494696/120367231-4183ca00-c32e-11eb-8e9c-633dda933295.png)
 
+5. Now type below command to run firefox on docker.
+
+![image](https://user-images.githubusercontent.com/60494696/120367877-03d37100-c32f-11eb-8fdb-9fda4f7e5617.png)
+
+
 
 
 
