@@ -17,7 +17,12 @@ Task Description 📄
 
 2.Then we go in docker_GUI and open vim editor.
 
-![image](https://user-images.githubusercontent.com/60494696/120361095-1b0e6080-c327-11eb-9f0c-90879043dab0.png)
+![image](https://user-images.githubusercontent.com/60494696/120362875-2f535d00-c329-11eb-9080-0013b670b125.png)
+
+3.Right the below thing in docker file
+
+![image](https://user-images.githubusercontent.com/60494696/120362748-0c28ad80-c329-11eb-8e12-0fe063e0f230.png)
+
 
 
 
